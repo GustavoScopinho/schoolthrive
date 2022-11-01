@@ -1,3 +1,13 @@
+# School Thrive 
+<br>
+<img src="https://i.imgur.com/j4eBUsB.png">
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
