@@ -1,0 +1,68 @@
+
+header {
+  background-color: #DDF4FF;
+}
+
+
+.container-header {
+  height: 80px;
+  background-color: #DDF4FF;
+  width: 80%;
+  margin: 0 auto;
+  display: flex;
+}
+
+.container-header h3 {
+  font-weight: 700;
+  color: 
+  #252B42;
+  font-size: 
+  24px;
+}
+
+nav {
+  display: flex;
+  width: 600px;
+  justify-content: end;
+  align-items: center;
+  gap: 20px;
+  padding-left: 100px;
+}
+
+nav p {
+  font-weight: 700;
+  color: #737373;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+}
+
+
+.container-login {
+  display: flex;
+  align-items: center;
+  justify-content: end;
+  width: 100%;
+  gap: 50px;
+}
+.container-login p {
+  color: #96BB7C;
+  font-weight: 700;
+}
+
+.container-login button {
+  width: 137px;
+  height: 52px;
+  background-color: #96BB7C;
+  border-radius: 5px;
+  color: #fff;
+  font-weight: 700;
+  border: none;
+  
+}
+
+.container-login button img {
+  padding-left: 10px;
+}

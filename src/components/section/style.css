@@ -1,0 +1,99 @@
+section {
+  display: flex;
+  height: 700px;
+  background-color: #DDF4FF;
+  width: 100%;
+}
+
+.container-left {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  flex-direction: column;
+  width: 800px;
+ 
+}
+
+.container-left p, h1 {
+  font-weight: 700;
+}
+
+.container-left p, .container-left h1, .container-left h4, .container-button{
+  padding: 0px 100px;
+}
+
+
+.container-left p {
+  color: #96BB7C;
+  text-align: start;
+  padding: 0px 100px;
+}
+
+.container-left h1 {
+  color: #252B42;
+  font-size: 58px;
+  padding: 25px 100px;
+}
+
+.container-left h4 {
+  color: #737373;
+  font-size: 20px;
+  padding: 0px 100px;
+  
+}
+
+.container-button {
+  width: 100%;
+  display: flex;
+  justify-content: start;
+  margin-top: 30px;
+}
+
+.button-1 {
+width: 193px;
+background-color: #96BB7C;
+height: 52px;
+border-radius: 5px;
+font-weight: 700;
+color: #fff;
+border: none;
+cursor: pointer;
+}
+
+.button-2 {
+  width: 162px;
+  height: 52px;
+  color: #96BB7C;
+  border: 1px solid #96BB7C;
+  border-radius: 5px;
+  margin-left: 10px;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.container-right img {
+  margin-top: 50px;
+  width: 90%;
+}
+
+.container-visita {
+  display: flex;
+  height: 264px;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+
+.container-visita div {
+  padding-right: 150px;
+}
+
+.container-visita div h1 {
+  color: #96BB7C;
+  font-size: 58px;
+  text-align: center;
+}
+
+.container-visita div h5 {
+  text-align: center;
+}
