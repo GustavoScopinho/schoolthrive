@@ -1,5 +1,5 @@
-# School Thrive 
-<br>
+# ELBOD2i
+
 ## Tela de Login
 <img src="https://i.imgur.com/bffpPbp.png">
 <br>
