@@ -1,12 +1,6 @@
-# ELBOD2i
-
-## Tela de Login
-<img src="https://i.imgur.com/bffpPbp.png">
+# School Thrive 
 <br>
-
-## Home/Perfil
-<img src="https://i.imgur.com/1PtJQqr.png">
-
+<img src="https://i.imgur.com/j4eBUsB.png">
 
 
 
